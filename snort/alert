@@ -1,0 +1,95 @@
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:06.322939 192.168.11.5 -> 4.4.4.4
+ICMP TTL:64 TOS:0x0 ID:35789 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13006   Seq:1  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:07.367942 192.168.11.5 -> 4.4.4.4
+ICMP TTL:64 TOS:0x0 ID:36287 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13006   Seq:2  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:08.424704 192.168.11.5 -> 4.4.4.4
+ICMP TTL:64 TOS:0x0 ID:36388 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13006   Seq:3  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:15.044204 192.168.11.5 -> 8.8.8.8
+ICMP TTL:64 TOS:0x0 ID:19858 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13227   Seq:1  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:15.054393 8.8.8.8 -> 192.168.11.5
+ICMP TTL:114 TOS:0x18 ID:3335 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13227  Seq:1  ECHO REPLY
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:16.062929 192.168.11.5 -> 8.8.8.8
+ICMP TTL:64 TOS:0x0 ID:20460 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13227   Seq:2  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:16.098939 8.8.8.8 -> 192.168.11.5
+ICMP TTL:114 TOS:0x18 ID:3336 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13227  Seq:2  ECHO REPLY
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:17.067433 192.168.11.5 -> 8.8.8.8
+ICMP TTL:64 TOS:0x0 ID:21024 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13227   Seq:3  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:17.074580 8.8.8.8 -> 192.168.11.5
+ICMP TTL:114 TOS:0x18 ID:3337 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13227  Seq:3  ECHO REPLY
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:23.599815 192.168.11.5 -> 1.1.1.1
+ICMP TTL:64 TOS:0x0 ID:54678 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13448   Seq:1  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:23.611783 1.1.1.1 -> 192.168.11.5
+ICMP TTL:52 TOS:0x0 ID:3338 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13448  Seq:1  ECHO REPLY
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:24.603157 192.168.11.5 -> 1.1.1.1
+ICMP TTL:64 TOS:0x0 ID:55523 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13448   Seq:2  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:24.614271 1.1.1.1 -> 192.168.11.5
+ICMP TTL:52 TOS:0x0 ID:3339 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13448  Seq:2  ECHO REPLY
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:25.604779 192.168.11.5 -> 1.1.1.1
+ICMP TTL:64 TOS:0x0 ID:56173 IpLen:20 DgmLen:84 DF
+Type:8  Code:0  ID:13448   Seq:3  ECHO
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-20:33:25.613271 1.1.1.1 -> 192.168.11.5
+ICMP TTL:52 TOS:0x0 ID:3340 IpLen:20 DgmLen:84
+Type:0  Code:0  ID:13448  Seq:3  ECHO REPLY
+
+[**] [1:1000001:1] alert ICMP detected [**]
+[Priority: 0] 
+08/28-21:17:24.489649 fe80::4180:9133:cb27:eb47 -> ff02::2
+IPV6-ICMP TTL:255 TOS:0x0 ID:0 IpLen:40 DgmLen:48
+
